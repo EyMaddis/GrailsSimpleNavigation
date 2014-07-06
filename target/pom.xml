@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns='http://maven.apache.org/POM/4.0.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd'>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.grails.plugins</groupId>
+  <artifactId>grails-simple-navigation</artifactId>
+  <packaging>zip</packaging>
+  <version>0.1</version>
+  <name>Grails Simple Navigation Plugin</name>
+  <description>A very simple taglib to create navigation structures with current page highlighting
+</description>
+  <url>http://grails.org/plugin/grails-simple-navigation</url>
+  <developers>
+    <developer>
+      <name>Maddis</name>
+      <email>mail@madd.is</email>
+    </developer>
+  </developers>
+  <dependencies />
+</project>

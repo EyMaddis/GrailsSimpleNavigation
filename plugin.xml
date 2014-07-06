@@ -1,0 +1,12 @@
+<plugin name='grails-simple-navigation' version='0.1' grailsVersion='2.4 &gt; *'>
+  <author>Maddis</author>
+  <authorEmail>mail@madd.is</authorEmail>
+  <title>Grails Simple Navigation Plugin</title>
+  <description>A very simple taglib to create navigation structures with current page highlighting
+</description>
+  <documentation>http://grails.org/plugin/grails-simple-navigation</documentation>
+  <type>GrailsSimpleNavigationGrailsPlugin</type>
+  <resources>
+    <resource>grailssimplenavigation.SimpleNavigationTagLib</resource>
+  </resources>
+</plugin>
